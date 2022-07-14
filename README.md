@@ -15,6 +15,12 @@ There is a description of the differences in ride-sharing data among the differe
 
 This analysis shows the break down of totals and averages by city type.  While Rural cities had significantly lower rides, drivers, and total fares; the averages for fare per ride and fare per driver were substantially larger than suburban and urban cities.  This is caused by larger demand with fewer drivers in the area and potentially longer rides causing the customer to have to pay for a higher premium.  While the average fare per ride and per driver were lower, Urban cities did produce the ~62% of total fares.
 
+*Summary by City Type*
+![image](https://user-images.githubusercontent.com/107078763/178861237-f85af64e-bfe2-4f74-b257-0046675516e5.png)
+
+*Graph to Support Findings*
+
+
 
 ##Summary:
 
