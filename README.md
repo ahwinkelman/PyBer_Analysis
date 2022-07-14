@@ -22,6 +22,6 @@ This analysis shows the break down of totals and averages by city type.  While R
 ## Summary:
 
 1.Since ~62% of my total fares come from the cities, I would prioritize the majority of my time on Urban cities if I needed to prioritize my time.
-2. I  would perform a time per ride to deep dive a correlation between total ride
-3.I would dive into what is causing the higher average fares in rural cities to see if there is a potential miss in the marker because the customers deem it is too expensive to use their service. 
+2. I would analyze if there are any missed opportunies by city type for the length it takes between request for ride and when the rider is picked up or if there is data on cancellations prior to pick.
+3.I would have your team dive into what is causing the higher average fares in rural cities to see if there is a potential miss in the marker because the customers deem it is too expensive to use their service. 
 
